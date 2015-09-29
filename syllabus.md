@@ -35,13 +35,31 @@ Each list of topics is a list of things students should be comfortable with at t
 
 I'm still working on finalizing all of the topics for each week. I'll make sure to keep this updated.
 
-### Week 1
+### Week 1 Objectives
+* Learn Shortcuts (Mac / Sublime Text 3)
+* Setup Sublime Text
+* Learn the terminal
+* Learn the browser
+* Begin with Git
+* Learn HTML Syntax
+* Memorize common HTML tags
+* CSS Syntax Mastery
+* Memorize common CSS properties
+* Demonstrate understanding of layout
+* Typography, Color, and Design ethics
+* Advanced CSS Techniques
+* Advanced Layout Techniques
+* Understand Bower
 
-TBD
-
-### Week 2
-
-TBD
+### Week 2 Objectives
+* Responsive Design Concepts
+* Demonstrate understanding of Git.
+  * push to github
+  * push to gh-pages
+* Demonstrate understanding of nodejs, npm, package.json, and browserify
+* Demonstrate understanding of SASS
+* Demonstrate understanding of CSS Frameworks
+* Demonstrate understanding of JS Syntax, data types, functions, loops, conditions, array and string methods
 
 ### Week 3
 
