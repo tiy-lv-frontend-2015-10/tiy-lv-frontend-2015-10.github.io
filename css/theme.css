@@ -49,3 +49,14 @@ body {
 .author a {
     color: #ee4444;
 }
+
+.frontend-icon {
+    display:block;
+    text-align:center;
+}
+
+.frontend-icon img {
+    display:block;
+    padding-bottom:15px;
+    margin:auto;
+}

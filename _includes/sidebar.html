@@ -1,5 +1,12 @@
 <div class="sidebar well">
-{{ site.description }}
+<a href="/" class="frontend-icon">
+  <img src="/images/tiy-frontend-eng-icon.png" />
+  {{ site.description }}
+</a>
+</div>
+
+<div class="sidebar well">
+{% include links-list.html %}
 </div>
 
 <div class="sidebar well">
@@ -9,8 +16,4 @@
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
-</div>
-
-<div class="sidebar well">
-{% include links-list.html %}
 </div>
