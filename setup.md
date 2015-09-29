@@ -28,6 +28,8 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
 
 * Install [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
 
+* Install [NodeJS](https://nodejs.org/en/)
+
 * Install XCode Command Line Tools
     1. Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
     1. You will have to register.
@@ -38,8 +40,6 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
     1. Open up Terminal.app. If you have any trouble here, go through [the command-line prework](/prework#topic-3-the-command-line).
     1. Run `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` and follow all the prompts.
     1. Run `brew doctor`
-
-* Install [NodeJS](https://nodejs.org/en/)
 
 * Create an SSH key (__do not__ give it a password when it asks for one)
     * Run `ssh-keygen` in your terminal.
