@@ -70,11 +70,7 @@ TBD
 
 TBD
 
-### Week 10
-
-TBD
-
-### Weeks 11-12
+### Weeks 10-12
 
 You will be working on your final project and presentation during this time.
 
