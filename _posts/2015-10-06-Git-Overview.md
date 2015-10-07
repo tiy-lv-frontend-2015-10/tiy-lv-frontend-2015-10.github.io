@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Git Overview"
+date: 2015-10-06 20:32:00 -0700
+comments: false
+---
 ## TLDR - Your Simple Guide to Git
 
 1. Open Terminal
